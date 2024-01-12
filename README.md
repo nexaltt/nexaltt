@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis y.</h1>
-<h3 align="center">Un nouveau dans le développement et je touche un peu à toutes les langues pour divers projet personnel</h3 >
+<h3 align="center">Un nouveau dans le développement et je touche un peu à touts les langages pour divers projet personnel</h3 >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nexaltt&label=Profile%20views&color=0e75b6&style=flat" alt="nexaltt" /> </p>
 
